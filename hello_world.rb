@@ -4,3 +4,6 @@ def hello_world(name)
   puts "Hello World! My name is #{name[1]}!"
   puts "Hello World! My name is #{name[2]}!"
   puts "Hello World! My name is #{name[3]}!"
+end
+
+hello_world(name)
